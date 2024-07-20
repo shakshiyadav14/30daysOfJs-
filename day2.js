@@ -138,7 +138,7 @@ console.log( 2 === '2');  //  false
 console.log(3 > 5);  // false
 
 // less than operator
-console.log(\ 3 < 5);  //  true
+console.log( 3 < 5);  //  true
 
 // logical AND
 console.log((n < 5) && (n > 0));  // false
