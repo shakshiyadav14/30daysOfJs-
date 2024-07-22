@@ -86,8 +86,7 @@ console.log(`The factorial of ${fact} is ${factorial}`);
 //Activity 4 : Nested Loops
 
 //Task 7                     
-//Pattern Printing Script
-
+//Pattern Printing Script 
 let b = 5;
 for(let i = 0; i < b; i++) {
     let row = '';
